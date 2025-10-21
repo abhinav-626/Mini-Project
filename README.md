@@ -1,6 +1,6 @@
 # Mini-Project — Mental Health Care Bridge
 
-Mini-Project is a web/mobile application prototype that connects people experiencing mental health issues with qualified mental health professionals. The goal is to make help easier to find by providing an accessible platform for screening, booking consultations, and starting conversations with professionals or peer-supporters.
+Mini-Project is a web/mobile application prototype that connects people experiencing mental health issues with qualified mental health professionals. The goal is to make help easier to find by providing an accessible platform for screening, booking consultations, and starting conversations with professionals or peer-support.
 
 ## Key goals
 - Reduce friction for users seeking mental health support.
